@@ -26,4 +26,4 @@ async function addStore(e){
     }
 }
 
-$('#store-form').on('submit', addStore)
+$('#store-form').on('submit', addStore);

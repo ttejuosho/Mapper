@@ -22,7 +22,6 @@ async function getStores(){
             }
         }
     });
-    console.log(stores);
     loadMap(stores);
 }
 
